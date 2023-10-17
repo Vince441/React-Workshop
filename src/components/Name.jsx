@@ -3,28 +3,34 @@ const Name = [ {
     name : "Vincent",
     age : "33",
     profession : "Wilders",
-    hobbies : "Jeux Video",
+    hobbies : "Jeux Video 🕹️",
+    images : "/Images/Vincent.png"
 },{
-    name : "Vincent",
-    age : "33",
+    name : "Alexandre",
+    age : "26",
     profession : "Wilders",
-    hobbies : "Jeux Video",
+    hobbies : "Dofus 💻",
+    images : "/Images/Alexandre.png"
 },{
-    name : "Vincent",
-    age : "33",
+    name : "Mamady",
+    age : "45",
     profession : "Wilders",
-    hobbies : "Jeux Video",
+    hobbies : "Foot ⚽",
+    images : "/Images/Mamady.png"
 },{
-    name : "Vincent",
-    age : "33",
+    name : "Tony",
+    age : "27",
     profession : "Wilders",
-    hobbies : "Jeux Video",
+    hobbies : "Moto 🏍️",
+    images : "/Images/Tony.png"
 },{
-    name : "Vincent",
-    age : "33",
+    name : "Alexandra",
+    age : "30",
     profession : "Wilders",
-    hobbies : "Jeux Video",
-}
+    hobbies : "Guitare 🎸",
+    images : "/Images/Alexandra.png"
+},
+
 ];
 
 export default Name

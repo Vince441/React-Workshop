@@ -9,7 +9,7 @@ return (
 
 <>
 <header className={'header'}>
-<h1>PRESENTATION DE LA TEAM</h1>
+<h1>PRESENTATION DE LA TEAM 🧦🧦</h1>
 </header>
 <WildersList Name={Name}/>
 

@@ -12,6 +12,7 @@ return (
     age ={student.age}
     profession = {student.profession}
     hobbies = {student.hobbies}
+    images = {student.images}
     
     />
   ))}
